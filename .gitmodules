@@ -5,4 +5,3 @@
 [submodule "agentpushkit"]
 	path = agentpushkit
 	url = https://github.com/JustinBStrong/agent-push-kit-r
-	branch = *release
